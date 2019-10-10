@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parcial1GermanCarvajal</string>
+    <string name="title_activity_maps">ArithGo</string>
+    <string name="center">Auto Follow</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="questionTitle">Cual es el resultado de la siguiente operación?</string>
+    <string name="equals">=</string>
+    <string name="buttonAnswer">Responder</string>
+    <string name="errorParsingInicial">Error en el parsing inicial del problem set</string>
+    <string name="errorEntradaDatsos">Por favor, ingrese un número entero</string>
+    <string name="reactiveButton">Reaccionar con Zona</string>
+    <string name="biblioteca">Biblioteca</string>
+    <string name="edificioa">Edificio A</string>
+    <string name="saman">Saman</string>
+    <string name="tienda">Tienda ICESI</string>
+</resources>
